@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMART City</string>
+    <string name="hint_email">Contact No</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="my_best_text">This system increases quality and speed of service as compared to existing system. The use of GPS and Google maps feature of web based for address location tracking lowers the user overhead of typing the address of exact location of complaint. Our project will help the common people under the province of a municipal corporation to register their criticism about day to day problems in their ward through this android application which can be run using mobile phones </string>
+    <string name="spinner_title">Status </string>
+
+</resources>

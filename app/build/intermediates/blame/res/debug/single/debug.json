@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_icon.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-mdpi\\attach_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_layout.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\admin_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_attach_icon.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-hdpi\\attach_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_viewproblem.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\activity_viewproblem.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_resources.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\list_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_attach_icon.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-xxhdpi\\attach_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_icon.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-xhdpi\\attach_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Complaint\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

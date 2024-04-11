@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- Spinner Element -->
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Token No:"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Token"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif-monospace"
+        android:textSize="22sp"
+        />
+    </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Location:"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/a"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                android:autoLink="web"
+                android:linksClickable="true"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Title:"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                />
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/b"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif-monospace"
+        android:textSize="22sp"
+        />
+        </TableRow>
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Type:"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/c"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif-monospace"
+        android:textSize="22sp"
+        /> </TableRow>
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Status:"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+
+            <TextView
+                android:id="@+id/d"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Start Date:"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sdate"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+
+                />
+        </TableRow>
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Due Date:"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/due"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif-monospace"
+        android:textSize="22sp"
+        />
+        </TableRow>
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Completion Date:"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cdate"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif-monospace"
+        android:textSize="22sp"
+        />
+        </TableRow>
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Count:"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/count"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif-monospace"
+        android:textSize="22sp"
+        />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Helpline no:"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="91 0000"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                />
+        </TableRow>
+
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Feedback:"
+            android:id="@+id/feed"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+
+            <TextView
+                android:id="@+id/feed2"
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+
+                android:textSize="14sp" />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_centerInParent="true"
+                android:fontFamily="serif-monospace"
+                android:textSize="22sp"
+                />  <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+
+        </TableRow>
+        <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remark:"
+            android:id="@+id/remarktext"
+            android:layout_centerInParent="true"
+            android:fontFamily="serif-monospace"
+            android:textSize="22sp"
+            />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/remark"
+        />
+        </TableRow>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:prompt="@string/spinner_title"
+        />
+        <TableRow></TableRow>
+    </TableLayout>
+
+</HorizontalScrollView>
+    <RatingBar
+        android:id="@+id/simpleRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/rate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="#ea4c88"
+        android:text="Give Rating"
+        android:textColor="@color/white" />
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/btnPic"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="#ea4c88"
+        android:text="View Pic"
+        android:textColor="@color/white" />
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/update"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="#ea4c88"
+        android:text="Update Problem"
+        android:textColor="@color/white" />
+
+</LinearLayout>

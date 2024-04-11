@@ -1,0 +1,4 @@
+#Tue Mar 19 10:45:42 IST 2024
+base.0=D\:\\project\\code\\Project_1819\\Android\\Complaint\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
